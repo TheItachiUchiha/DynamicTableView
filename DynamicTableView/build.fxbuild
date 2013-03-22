@@ -1,0 +1,2 @@
+jfx.build.stagingdir = ${workspace}/DemoInventory/build
+jfx.build.apptitle = DemoInventory
